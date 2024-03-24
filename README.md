@@ -7,7 +7,7 @@ Cyber Security Analyst | CTF Player | Red Teamer
 
 ## Certifications:
 <div style="text-align: center;">
-    <img src="Images/cc.png" alt="CC" width="150">
+    <img src="Images/CC.png" alt="CC" width="150">
     <img src="Images/ISO.png" alt="Information Security Associate" width="150">
 
 ## Worked With:
