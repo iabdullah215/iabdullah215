@@ -1,5 +1,5 @@
 # About Me:
-Cyber Security Analyst | CTF Player | Red Teamer 
+Cyber Security Analyst | CTF Player | Red Teamer | Programmer | Gamer
 
 
 ## Socials:
