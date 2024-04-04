@@ -1,6 +1,5 @@
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=%23+Gamer;%E2%9C%93+Programmer;%E2%9C%93+Pentester;%E2%9C%93+CTF+Player+;%E2%9C%93++;%E2%9C%93++)]
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
 
 <h1 align="center">Hi, I'm Abdullah aka MnM</h1>
 <h3 align="center">Cyber Security Analyst | CTF Player | Red Teamer | Programmer | Gamer</h3>
