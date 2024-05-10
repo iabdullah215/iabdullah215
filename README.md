@@ -8,9 +8,9 @@
 
 ## Certifications:
 <div style="text-align: center; display: flex; justify-content: center; gap: 20px;">
-    <img src="Images/CC.png" alt="CC" width="150" height="150">
-    <img src="Images/ISO.png" alt="Information Security Associate" width="150" height="150">
-    <img src="Images/DevOps.png" alt="Microsoft DevOps" width="150" height="150">
+    <img src="Images/CC.png" alt="CC" width="150">
+    <img src="Images/ISO.png" alt="Information Security Associate" width="150">
+    <img src="Images/DevOps.png" alt="Microsoft DevOps" width="150">
 </div>
     
 ---
