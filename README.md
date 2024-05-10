@@ -7,26 +7,10 @@
 ---
 
 ## Certifications:
-<head>
-    <meta charset="UTF-8">
-    <title>Image Alignment</title>
-    <style>
-        .image-row {
-            text-align: center;
-        }
-        .image-row img {
-            display: inline-block;
-            vertical-align: middle;
-            height: 150px; /* Make sure all images have the same height */
-        }
-    </style>
-</head>
-<body>
-    <div class="image-row">
-        <img src="Images/CC.png" alt="CC">
-        <img src="Images/ISO.png" alt="Information Security Associate">
-        <img src="Images/DevOps.png" alt="Microsoft DevOps">
-    </div>
+<div style="text-align: center;">
+    <img src="Images/CC.png" alt="CC" width="150">
+    <img src="Images/ISO.png" alt="Information Security Associate" width="150">
+    <img src="Images/DevOps.png" alt="Microsoft DevOps" width="150">
     
 ---
 
