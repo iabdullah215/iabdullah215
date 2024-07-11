@@ -35,7 +35,10 @@
 
 ---
 
-- Reach me at **abdullah.MnM@proton.me**
-               **muhammadabdullah8040@gmail.com**
+- Reach me at:
+
+ **abdullah.MnM@proton.me**
+
+ **muhammadabdullah8040@gmail.com**
 
 ---
