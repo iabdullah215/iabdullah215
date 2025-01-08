@@ -11,7 +11,7 @@
     <img src="Images/CC.png" alt="CC" width="100">
     <img src="Images/ISO.png" alt="Information Security Associate" width="150">
     <img src="Images/DevOps.png" alt="Microsoft DevOps" width="150">
-    <img src="Images/ICCA.png" alt="ICCA" width="70">
+    <img src="Images/ICCA.png" alt="ICCA" width="90">
     <img src="Images/ejpt.png" alt="ICCA" width="130">
     
 ---
