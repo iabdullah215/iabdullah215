@@ -13,6 +13,8 @@
     <img src="Images/DevOps.png" alt="Microsoft DevOps" width="150">
     <img src="Images/ICCA.png" alt="ICCA" width="100">
     <img src="Images/eJPT.png" alt="eJPT" width="100">
+    <img src="Images/crta.png" alt="eJPT" width="100">
+    <img src="Images/cnsp.png" alt="eJPT" width="100">
     
 ---
 
