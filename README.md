@@ -15,6 +15,7 @@
     <img src="Images/eJPT.png" alt="eJPT" width="100">
     <img src="Images/crta.png" alt="eJPT" width="125">
     <img src="Images/cnsp.png" alt="eJPT" width="125">
+    <img src="Images/CPTS.png" alt="eJPT" width="125">
     
 ---
 
