@@ -32,8 +32,7 @@
 ---
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iabdullah215&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/iabdullah215?cardType=github&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 ---
 
 - Reach me at:
