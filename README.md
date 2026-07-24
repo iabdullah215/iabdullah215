@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abdullah aka Hwat Sauce</h1>
+<h1 align="center">Hi, I'm Abdullah aka hwatSauce</h1>
 <h3 align="center">| Cyber Security Analyst | CTF Player | Red Teamer | Pentester | DevSecOps | Gamer |</h3>
 
 ---
